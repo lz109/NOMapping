@@ -1,0 +1,9 @@
+betaToK/x.dat
+betaToK/y.dat
+betaToK/gamma.dat
+betauToU/x.dat
+betauToU/y.dat
+fToK/x.dat
+fToK/y.dat
+*.pyc
+fToK/fToKTorchModel
