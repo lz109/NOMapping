@@ -11,13 +11,9 @@ import statements in the Jupyter-notebooks to make sure all files are included.
 
 ## Demos
 
-### Dataset and Models
-All precomputed datasets and models are available here [Google Drive](https://drive.google.com/drive/folders/1n75jsadVMV8L0ju5C4yypayVHAlBLY6o?usp=sharing)
-
 ### Learning mapping $\beta$ to $k$
-- Please see the jupyter-notebook in the folder titled `betaToK`
-- This model will only take a few minutes to generate the dataset and train. However, we still provide the data and model in the Drive folder above. To generate your
-own datasets, please uncomment the labeled code in the notebook.
+- Please see the jupyter-notebook titled `betaToK_FNO` and `betaToK_DeepONet`
+- This model will only take a few minutes to generate the dataset and train. To generate your own datasets, please uncomment the labeled code in the notebook.
 
 ## Cite this work
 ```
@@ -32,9 +28,6 @@ own datasets, please uncomment the labeled code in the notebook.
   copyright = {Creative Commons Attribution 4.0 International}
 }
 ```
-
-## Questions
-Feel free to leave any questions in the issues of Github or email the author Luke at lbhan@ucsd.edu
 
 ## License
 
